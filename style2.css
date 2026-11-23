@@ -180,6 +180,7 @@ button {
 
 .tabcontent {
     display: none;
+    text-decoration:none;
     border: 1px solid #d6d6d6;
     padding: 25px;
     background-color: #fafafa;
